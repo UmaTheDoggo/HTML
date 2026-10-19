@@ -3,6 +3,7 @@ body {
 }
 
 h1 {
+    text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     color: black;
     margin: 5 auto;
@@ -13,10 +14,29 @@ p {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: black;
     margin: 1 auto;
-    align-items: center;
+    text-align: center;
+}
+
+.kuva-linkki {
+    display: block;
+    width: fit-content;
+    margin: 5px auto;
+    line-height: 0;
 }
 
 img {
-    margin: 5 auto;
+    display: block;
+    margin: 5px auto;
     border-radius: 50px;
+}
+
+th, td {
+    
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+tr:nth-child(even) {
+    background-color: #FFEAA2;
 }
