@@ -23,7 +23,7 @@ a {
 
 .logo {
     margin-right: auto;
-    height: 5%;
+    height: 100%;
     width: 10%;
     background-color: gray;
 }
@@ -85,4 +85,23 @@ h1 {
 
 h4 {
     vertical-align: text-top;
+}
+
+.ContactText {
+    line-height: 10px;
+    white-space: normal;
+}
+
+.contentContact {
+    background-color: white;
+    padding: 30px;
+    max-width: 1500px;
+    border-radius: 8px;
+    justify-content: left;
+    flex-wrap: wrap;
+    align-self: center;
+}
+
+h2 {
+    align-items: baseline;
 }
