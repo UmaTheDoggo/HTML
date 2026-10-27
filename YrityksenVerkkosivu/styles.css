@@ -3,8 +3,13 @@ body {
   margin: 50px;
   margin-left: 200px;
   margin-right: 200px;
-  background-image: url(https://cdn.wallpapersafari.com/96/20/2O5ikd.jpg)
+
+  background-image: url(https://cdn.wallpapersafari.com/96/20/2O5ikd.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
+
+
 
 .textnavi {
   display: flex;
@@ -131,10 +136,14 @@ p {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-b1 {
+.contactBold {
   font-weight: bold;
 }
 
-b1:hover {
+.contactBold:hover {
   background-color: #C5A880
+}
+
+.left-alignedh1 {
+  text-align: left;
 }
