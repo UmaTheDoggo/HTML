@@ -6,6 +6,8 @@ body {
 
   background-image: url(https://cdn.wallpapersafari.com/96/20/2O5ikd.jpg);
   background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
   background-size: cover;
 }
 
@@ -72,6 +74,11 @@ h1 {
   text-align: center;
   line-height: 1.6;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.headerTuote {
+  font-size: 18px;
+  text-align: left;
 }
 
 .tuote {
