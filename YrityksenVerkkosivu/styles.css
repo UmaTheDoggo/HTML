@@ -1,129 +1,136 @@
 body {
-    box-sizing: content-box;
-    margin: 50px;
-    margin-left: 200px;
-    margin-right: 200px;
-    background-color: #cccccc;
-    font-family: Arial, Helvetica, sans-serif;
+  box-sizing: content-box;
+  margin: 50px;
+  margin-left: 200px;
+  margin-right: 200px;
+  background-color: #cccccc;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .textnavi {
-    display: flex;
-    justify-content: flex-end;
-    gap: 100px;
-    align-items: center;
-    background-color: gainsboro;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  display: flex;
+  justify-content: flex-end;
+  gap: 100px;
+  align-items: center;
+  background-color: gainsboro;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 a {
-    color: inherit;
-    text-decoration: inherit;
+  color: inherit;
+  text-decoration: inherit;
 }
 
 .logo {
-    margin-right: auto;
-    height: 100%;
-    width: 10%;
-    background-color: gray;
+  margin-right: auto;
+  height: 100%;
+  width: 10%;
+  background-color: gray;
 }
 
 .textbox {
-    margin-right: 50px;
+  margin-right: 50px;
 }
 
 .textbox:hover {
-    background-color: yellow;
+  background-color: yellow;
 }
 
 h1 {
-    font-size: 50px;
-    text-align: center;
+  font-size: 50px;
+  text-align: center;
 }
 
 .yrityskuva {
-    width: 100%;
-    height: 70%;
-    border-radius: 5%;
+  width: 100%;
+  height: 70%;
+  border-radius: 5%;
 }
 
 .contentBox {
-    background-color: white;
-    padding: 30px;
-    max-width: 1500px;
-    border-radius: 8px;
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    align-self: center;
-    overflow:auto;
+  background-color: white;
+  padding: 30px;
+  max-width: 1500px;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-self: center;
+  overflow: auto;
 }
 
 .paragraph {
-    font-size: 18px;
-    max-width: 1300px;
-    margin: 0 auto;
-    text-align: center;
-    line-height: 1.6;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 18px;
+  max-width: 1300px;
+  margin: 0 auto;
+  text-align: center;
+  line-height: 1.6;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .tuote {
-    background-color: gainsboro;
-    padding: 5px;
-    border-radius: 5px;
-    float: left;
-    min-width: 300px;
-    max-width: 300px;
-    margin-inline-start: 20px;
+  background-color: gainsboro;
+  padding: 5px;
+  border-radius: 5px;
+  float: left;
+  min-width: 300px;
+  max-width: 300px;
+  margin-inline-start: 20px;
 }
 
 .tuote:hover {
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
-    min-width: 310px;
-    min-width: 310px;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+  min-width: 310px;
+  min-width: 310px;
 }
 
 .container {
-    padding: 8px 16px;
+  padding: 8px 16px;
 }
 
 h4 {
-    vertical-align: text-top;
+  vertical-align: text-top;
 }
 
 .ContactText {
-    line-height: 10px;
-    white-space: normal;
+  line-height: 10px;
+  white-space: normal;
 }
 
 .contentContact {
-    background-color: white;
-    padding: 30px;
-    max-width: 1500px;
-    border-radius: 8px;
-    justify-content: left;
-    flex-wrap: wrap;
-    align-self: center;
-    overflow:auto;
+  background-color: white;
+  padding: 30px;
+  max-width: 1500px;
+  border-radius: 8px;
+  justify-content: left;
+  flex-wrap: wrap;
+  align-self: center;
+  overflow: auto;
 }
 
 h2 {
-    align-items: baseline;
-    font-size: 35px;
+  align-items: baseline;
+  font-size: 35px;
 }
 
 .karttakuva {
-    float:right;
-    width: 50%;
-    height: 50%;
-    padding: 25px;
+  float: right;
+  width: 50%;
+  height: 50%;
+  padding: 25px;
 }
 
 p {
-    display:inline-block;
-    float: left;
-    clear: left;
-    font-size: 18px;
-    line-height: 30px;
+  display: inline-block;
+  clear: left;
+  font-size: 18px;
+  line-height: 30px;
+}
+
+b1 {
+  font-weight: bold;
+}
+
+b1:hover {
+  background-color: yellow;
 }
