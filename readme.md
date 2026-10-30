@@ -4,7 +4,7 @@
 
 ### JS-moduulit 1 ja 2
 
-[Linkki JS-moduulin 1 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~leevillu/ohjelmisto2/js-moduulit/)
+[Linkki JS-moduulin 1 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~leevillu/ohjelmisto2/js-moduulit/moduuli%201%20ja%202/)
 
 Tehdyt tehtävät:
 - tehtävä 1 -1p
