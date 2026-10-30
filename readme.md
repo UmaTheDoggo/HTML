@@ -18,4 +18,6 @@ Tehdyt tehtävät:
 ### JS-moduuli 3
 
 Tehdyt tehtävät:
+- tehtävä 1 - 2p
+
 
