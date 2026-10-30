@@ -11,7 +11,6 @@ console.log(osallistujat);
 
 const listaHtml = osallistujat.map(nimi => `<li>${nimi}</li>`).join('');
 
-document.querySelector("#target").innerHTML = `
-  <p>Lista aakkosjärjestyksessä:</p>
-  <ul>${listaHtml}</ul>
-`;
+document.querySelector("#target").innerHTML =`
+<p>Lista aakkosjärjestyksessä:</p>
+<ol>${listaHtml}</ol>`;
