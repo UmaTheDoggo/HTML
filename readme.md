@@ -22,7 +22,8 @@ Tehdyt tehtävät:
 - tehtävä 2 - 2p
 - tehtävä 3 - 2p
 - tehtävä 4 - 2p
+- tehtävä 5 - 2p
 
-**Yhteensä 8p**
+**Yhteensä 10p**
 
 
