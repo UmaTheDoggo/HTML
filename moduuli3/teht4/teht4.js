@@ -1,3 +1,5 @@
+"use strict";
+
 let numerot = [];
 let x = 1;
 

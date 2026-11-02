@@ -1,3 +1,5 @@
+"use strict";
+
 const amount = prompt("Kuinka moni osallistuu?");
 const osallistujat = [];
 

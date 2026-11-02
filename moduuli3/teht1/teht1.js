@@ -1,3 +1,5 @@
+"use strict";
+
 const lista = [];
 
 for (let kerta = 0; kerta < 5; kerta++) {
