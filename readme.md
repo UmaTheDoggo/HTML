@@ -17,6 +17,8 @@ Tehdyt tehtävät:
 
 ### JS-moduuli 3
 
+[Linkki JS-moduulin 3 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~leevillu/ohjelmisto2/js-moduulit/moduuli3/)
+
 Tehdyt tehtävät:
 - tehtävä 1 - 2p
 - tehtävä 2 - 2p
