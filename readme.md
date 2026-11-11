@@ -29,3 +29,9 @@ Tehdyt tehtävät:
 **Yhteensä 10p**
 
 
+[Linkki JS-moduulin 3 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~leevillu/ohjelmisto2/js-moduulit/moduuli4/)
+
+Tehdyt tehtävät:
+- tehtävä 1 - 2p
+
+**Yhteensä 2p**
