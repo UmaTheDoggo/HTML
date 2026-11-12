@@ -33,5 +33,6 @@ Tehdyt tehtävät:
 
 Tehdyt tehtävät:
 - tehtävä 1 - 2p
+- tehtävä 2 - 2p
 
-**Yhteensä 2p**
+**Yhteensä 4p**

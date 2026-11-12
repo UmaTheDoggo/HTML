@@ -1,12 +1,11 @@
 "use strict";
 
-document.querySelector=("#target").innerHTML = `
+const lista = document.createElement("ul");
 
-const lista = document.createElement("p");
-para.innerText =
-<li>First item</li>
-<li>Second item</li>
-<li>Third item</li>
-`
+//lista.innerHTML = `//
+document.querySelector("#target").innerHTML =`
+  <li>First item</li>
+  <li class="my-item" >Second item</li>
+  <li>Third item</li>`;
 
-document.body.appendChild(lista)
+document.body.appendChild(lista);
